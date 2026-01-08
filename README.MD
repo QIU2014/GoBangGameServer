@@ -1,6 +1,9 @@
 # Gobang Game Server
 
-A dedicated server for the Gobang (Five-in-a-Row) multiplayer game.
+A dedicated server for the Gobang (Five-in-a-Row) multiplayer game.  
+[![Java CI with Maven](https://github.com/QIU2014/GoBangGameServer/actions/workflows/maven.yml/badge.svg)](https://github.com/QIU2014/GoBangGameServer/actions/workflows/maven.yml)
+![GitHub Release](https://img.shields.io/github/v/release/qiu2014/Gobanggameserver)
+![GitHub License](https://img.shields.io/github/license/qiu2014/gobanggameserver)
 
 ## Features
 
